@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%Hửu%20Nhân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20Developer%20|%20AI%20%26%20IoT%20Enthusiast&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hửu%20Nhân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20Developer%20|%20AI%20%26%20IoT%20Enthusiast&descAlignY=52&descSize=18"/>
 
 <div align="center">
 
@@ -47,7 +47,7 @@ const nhan = {
 
 - 🔭 Working on **enterprise mobile applications** at **FPT Telecom**
 - 🚀 Exploring **AI/ML integration** and **on-device AI solutions**
-- 💡 Specialized in **React Native** & **Flutter**
+- 💡 Specialized in **React Native** and **Flutter**
 - 🎯 Goal: Creating impactful apps that improve lives
 - 📫 Reach me: **nguyennhan.it2412@gmail.com**
 - ⚡ Fun fact: I debug in my dreams!
@@ -65,22 +65,22 @@ const nhan = {
   <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift,java,dart&theme=dark" />
 </p>
 
-### 🌐 Frontend & Web
+### 🌐 Frontend and Web
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,javascript,html,css&theme=dark" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend and Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,supabase,mysql,postgres,redis&theme=dark" />
 </p>
 
-### 🔧 Tools & Others
+### 🔧 Tools and Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma,postman&theme=dark" />
 </p>
 
-### 🤖 AI & IoT
+### 🤖 AI and IoT
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -124,9 +124,9 @@ const nhan = {
 
 | Period | Role | Company | Highlights |
 |:------:|:-----|:--------|:-----------|
-| **2022 - Present** | Senior Mobile Developer | FPT Telecom | Led mobile initiatives, AI & IoT integration, Team mentoring |
+| **2022 - Present** | Senior Mobile Developer | FPT Telecom | Led mobile initiatives, AI and IoT integration, Team mentoring |
 | **2020 - 2022** | Mobile Developer | FPT Telecom | Mobile development, Automation testing with Appium |
-| **2019** | Junior Android Developer | Tinh Vân Solution | Android development with Java & Kotlin |
+| **2019** | Junior Android Developer | Tinh Vân Solution | Android development with Java and Kotlin |
 | **2019 - Present** | Freelance Developer | Self-employed | Mobile apps, Web development, AI/IoT solutions |
 
 </div>
