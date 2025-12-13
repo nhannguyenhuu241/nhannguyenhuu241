@@ -18,15 +18,15 @@
 
 ## 🚀 About Me
 
-```typescript
+```javascript
 const nhan = {
     role: "Senior Mobile Developer",
     company: "FPT Telecom",
     experience: "5+ years",
-    location: "Vietnam 🇻🇳",
+    location: "Vietnam",
     passion: ["Mobile Development", "AI Integration", "IoT Solutions"],
     currentFocus: "Building cross-platform apps with AI & IoT capabilities",
-    funFact: "I turn coffee into mobile apps ☕→📱"
+    funFact: "I turn coffee into mobile apps"
 };
 ```
 
