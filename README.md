@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%Hửu%20Nhân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20Developer%20|%20AI%20%26%20IoT%20Enthusiast&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hữu%20Nhân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20Developer%20|%20AI%20%26%20IoT%20Enthusiast&descAlignY=52&descSize=18"/>
 
 <div align="center">
 
@@ -25,11 +25,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## 🚀 About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px"/>
 
 ```javascript
 const nhan = {
@@ -54,9 +54,9 @@ const nhan = {
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ const nhan = {
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,supabase,mysql,postgres,redis&theme=dark" />
 </p>
 
-### 🛠️ Tools & Others
+### 🔧 Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma,postman&theme=dark" />
 </p>
@@ -91,9 +91,9 @@ const nhan = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nhannguyenhuu241&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
@@ -116,55 +116,29 @@ const nhan = {
   <img src="https://github-profile-trophy.vercel.app/?username=nhannguyenhuu241&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophy"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Work Experience
+## 💼 Work Experience
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  💼 PROFESSIONAL JOURNEY                                                     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  🔵 2022 - Present    Senior Mobile Developer @ FPT Telecom                 │
-│     └── Led mobile initiatives, AI & IoT integration, Team mentoring        │
-│                                                                             │
-│  🟢 2020 - 2022       Mobile Developer @ FPT Telecom                        │
-│     └── Mobile development, Automation testing with Appium                  │
-│                                                                             │
-│  🟡 2019              Junior Android Developer @ Tinh Vân Solution          │
-│     └── Android development with Java & Kotlin                              │
-│                                                                             │
-│  🟣 2019 - Present    Freelance Developer                                   │
-│     └── Mobile apps, Web development, AI/IoT solutions                      │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Period | Role | Company | Highlights |
+|:------:|:-----|:--------|:-----------|
+| **2022 - Present** | Senior Mobile Developer | FPT Telecom | Led mobile initiatives, AI & IoT integration, Team mentoring |
+| **2020 - 2022** | Mobile Developer | FPT Telecom | Mobile development, Automation testing with Appium |
+| **2019** | Junior Android Developer | Tinh Vân Solution | Android development with Java & Kotlin |
+| **2019 - Present** | Freelance Developer | Self-employed | Mobile apps, Web development, AI/IoT solutions |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nhannguyenhuu241&repo=mobix-super-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
-</a>
-<a href="#">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nhannguyenhuu241&repo=fpt-life-smart-home&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
-</a>
-
-</div>
-
-<br/>
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|:----------:|:---------------|:--------------|
+| Project | Description | Tech Stack |
+|:-------:|:------------|:-----------|
 | **MobiX Super App** | Enterprise super app with multiple services | `React Native` `Kotlin` `Firebase` |
 | **FPT Life Smart Home** | IoT smart home control with AI voice | `Flutter` `MQTT` `AI Voice` |
 | **MobiPay** | Fintech payment solution | `Android` `Kotlin` `Payment Gateway` |
@@ -174,9 +148,9 @@ const nhan = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> Quick Stats
+## 📈 Quick Stats
 
 <div align="center">
 
@@ -193,34 +167,38 @@ const nhan = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70px"/>
 
 ### 💬 I'm always open to discussing new projects, creative ideas, or opportunities!
 
 <br/>
 
 <a href="mailto:nguyennhan.it2412@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img src="https://img.shields.io/badge/Email-nguyennhan.it2412@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/nhan-nguyen-686a1a193">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845571ae7.png"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Hữu%20Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
 <a href="https://lexnguyen.io.vn">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img src="https://img.shields.io/badge/Portfolio-lexnguyen.io.vn-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+⭐ **If you find my work interesting, don't forget to star my repositories!**
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
