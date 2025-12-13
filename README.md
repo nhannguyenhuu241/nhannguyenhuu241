@@ -184,7 +184,7 @@ const nhan = {
 <br/><br/>
 
 <a href="https://linkedin.com/in/nhan-nguyen-686a1a193">
-  <img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Hữu%20Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Hửu%20Nhân-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
