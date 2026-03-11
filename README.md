@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Huu%20Nhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Mobile%20Developer&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Huu%20Nhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Developer&descAlignY=52&descSize=18)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;5%2B+Years+of+Mobile+Development+Experience;React+Native+%7C+Flutter+%7C+Kotlin+%7C+Swift;Building+Apps+with+AI+%26+IoT+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;5%2B+Years+of+Development+Experience;React+Native+%7C+Flutter+%7C+Kotlin+%7C+Swift;Building+Apps+with+AI+%26+IoT+Integration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ```javascript
 const nhan = {
-    role: "Senior Mobile Developer",
+    role: "Senior Developer",
     company: "FPT Telecom",
     experience: "5+ years",
     location: "Vietnam",
