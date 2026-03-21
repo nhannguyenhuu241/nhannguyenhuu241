@@ -124,7 +124,7 @@ const nhan = {
 
 | Period | Role | Company | Highlights |
 |:------:|:-----|:--------|:-----------|
-| **2022 - Present** | Senior Mobile Developer | FPT Telecom | Led mobile initiatives, AI and IoT integration, Team mentoring |
+| **2022 - Present** | Senior Developer & AI Enginering| FPT Telecom | Led initiatives, AI and IoT integration, Team mentoring |
 | **2020 - 2022** | Mobile Developer | FPT Telecom | Mobile development, Automation testing with Appium |
 | **2019** | Junior Android Developer | Tinh Vân Solution | Android development with Java and Kotlin |
 | **2019 - Present** | Freelance Developer | Self-employed | Mobile apps, Web development, AI/IoT solutions |
