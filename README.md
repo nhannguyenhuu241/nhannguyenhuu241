@@ -145,7 +145,7 @@ const nhan = {
 | **ChickBrain** | AI-powered educational app | `Flutter` `AI/ML` `Speech API` |
 | **SaleClub** | E-commerce platform | `React Native` `TypeScript` `Redux` |
 | **DELTA Logistics** | Logistics management app | `Flutter` `Google Maps` `Firebase` |
-
+| **Fkit** | Marketplace tools vibe coding | `NextJS`, `Python`, `SQL` |
 </div>
 
 ---
