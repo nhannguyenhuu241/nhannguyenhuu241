@@ -35,7 +35,7 @@
 const nhan = {
     role: "Senior Developer",
     company: "FPT Telecom",
-    experience: "5+ years",
+    experience: "6+ years",
     location: "Vietnam",
     passion: ["Mobile Dev", "AI Integration", "IoT Solutions"],
     currentFocus: "Cross-platform apps with AI & IoT",
